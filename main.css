@@ -12,10 +12,8 @@ body {
 }
 body, input {
 	/*font-family: 'PT Mono', monospace !important;*/
-	/*font-family: 'Monaco', monospace !important;*/
+	font-family: 'Monaco', monospace !important;
 	/*font-family: 'Andalé Mono', monospace !important;*/
-	
-	font-family: 'Major Mono Display', monospace;
 }
 
 
@@ -73,7 +71,7 @@ body, input {
 }
 
 input[type='text'] {
-	font-size: 30px !important;
+	font-size: 34px !important;
 	background-color: var(--inputbg, transparent) !important;
 	color: var(--inputcolor, #111);
 	height: auto !important;
