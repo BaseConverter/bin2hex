@@ -131,7 +131,6 @@ span.input > div > input {
 }
 #binInput input, #binInput .fakeText {
 	font-size: 30px;
-	font-family: 'PT Mono', monospace;
 	letter-spacing: 14px;
 }
 
