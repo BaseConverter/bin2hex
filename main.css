@@ -155,7 +155,6 @@ span.input > div > input {
 	left: 0;
 	height: 100%;	
 	display: flex;
-	font-size: 30px;
 	transition: opacity 0.3s;
 }
 #binInput .values span {
@@ -166,7 +165,6 @@ span.input > div > input {
 
 	flex: 1 1 0px;
 	text-align: center;
-	line-height: 40px;
 	color: black;
 }
 #binInput .values span:last-child {
