@@ -76,7 +76,8 @@ input[type='text'] {
 	color: var(--inputcolor, #111);
 	height: auto !important;
 	transition: background 600ms, color 300ms;
-	padding: 0em 0.2em 0.1em 0.2em !important;
+	padding: 0em 0.2em 0em 0.2em !important;
+	vertical-align: text-bottom;
 }
 input[type='text']:focus {
   border-color: #00D0E6 !important;
