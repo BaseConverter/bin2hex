@@ -75,8 +75,9 @@ input[type='text'] {
 	background-color: var(--inputbg, transparent) !important;
 	color: var(--inputcolor, #111);
 	height: auto !important;
+	line-height: 0.8em;
 	transition: background 600ms, color 300ms;
-	padding: 0rem 0.6rem !important;
+	padding: 0.2em 0.6em 0 0.6em !important;
 }
 input[type='text']:focus {
   border-color: #00D0E6 !important;
