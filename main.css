@@ -53,7 +53,7 @@ body {
 .navigation .row {
 	align-items: center;
 	flex-wrap: nowrap;
-	flex-direction: column !important;
+	flex-direction: row !important;
 }
 
 
