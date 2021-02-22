@@ -5,12 +5,16 @@ body {
 
 
 body {	
-	/*font-family: 'PT Mono', monospace !important;*/
-	font-family: 'Monaco', monospace !important;
+	
 
 	background-color: var(--bg, white);
 	transition: background 400ms;
 }
+body, input {
+	/*font-family: 'PT Mono', monospace !important;*/
+	font-family: 'Monaco', monospace !important;
+}
+
 
 .navigation {
     background-color: var(--navbg, #f4f5f6);
