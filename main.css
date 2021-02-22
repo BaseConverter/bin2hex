@@ -26,6 +26,9 @@ body {
     color: var(--navcolor, #666);
     transition: background 400ms, border 400ms, color 400ms;
 }
+.navigation .row {
+	flex-wrap: no !important;	
+}
 .navigation .row .column:first-child {
 	text-align: left;
 }
