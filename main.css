@@ -136,7 +136,7 @@ span.input > div > input {
 	z-index: 1;
 }
 #binInput input, #binInput .fakeText {
-	font-size: 34px;
+	font-size: 30px;
 	letter-spacing: 14px;
 	padding-top: 0.1em;
 }
