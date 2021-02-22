@@ -12,7 +12,8 @@ body {
 }
 body, input {
 	/*font-family: 'PT Mono', monospace !important;*/
-	font-family: 'Monaco', monospace !important;
+	/*font-family: 'Monaco', monospace !important;*/
+	font-family: 'Andalé Mono', monospace !important;
 }
 
 
