@@ -69,14 +69,14 @@ body, input {
 	padding-bottom: 10px !important;
 }
 
-input {
+input[type='text'] {
 	font-size: 30px;
 	background-color: var(--inputbg, transparent) !important;
 	color: var(--inputcolor, #111);
-
+	height: auto !important;
 	transition: background 600ms, color: 300ms;
 }
-input:focus {
+input[type='text']:focus {
   border-color: #00D0E6 !important;
 }
 
